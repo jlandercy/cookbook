@@ -1,0 +1,246 @@
+﻿Sector;Subsector;Fuel;Technology;2015
+Passenger Cars;Gasoline <0,8 l;Gasoline;PC Euro 4 - 98/69/EC Stage2005;945
+Passenger Cars;Gasoline <0,8 l;Gasoline;PC Euro 5 - EC 715/2007;33
+Passenger Cars;Gasoline <0,8 l;Gasoline;PC Euro 6 - EC 715/2007;1
+Passenger Cars;Gasoline 0,8 - 1,4 l;Gasoline;PRE ECE;6 774
+Passenger Cars;Gasoline 0,8 - 1,4 l;Gasoline;ECE 15/00-01;1 020
+Passenger Cars;Gasoline 0,8 - 1,4 l;Gasoline;ECE 15/02;2 698
+Passenger Cars;Gasoline 0,8 - 1,4 l;Gasoline;ECE 15/03;1 768
+Passenger Cars;Gasoline 0,8 - 1,4 l;Gasoline;ECE 15/04;1 756
+Passenger Cars;Gasoline 0,8 - 1,4 l;Gasoline;PC Euro 1 - 91/441/EEC;2 694
+Passenger Cars;Gasoline 0,8 - 1,4 l;Gasoline;PC Euro 2 - 94/12/EEC;5 458
+Passenger Cars;Gasoline 0,8 - 1,4 l;Gasoline;PC Euro 3 - 98/69/EC Stage2000;15 178
+Passenger Cars;Gasoline 0,8 - 1,4 l;Gasoline;PC Euro 4 - 98/69/EC Stage2005;37 352
+Passenger Cars;Gasoline 0,8 - 1,4 l;Gasoline;PC Euro 5 - EC 715/2007;39 267
+Passenger Cars;Gasoline 0,8 - 1,4 l;Gasoline;PC Euro 6 - EC 715/2007;12 121
+Passenger Cars;Gasoline 1,4 - 2,0 l;Gasoline;PRE ECE;4 501
+Passenger Cars;Gasoline 1,4 - 2,0 l;Gasoline;ECE 15/00-01;627
+Passenger Cars;Gasoline 1,4 - 2,0 l;Gasoline;ECE 15/02;1 615
+Passenger Cars;Gasoline 1,4 - 2,0 l;Gasoline;ECE 15/03;1 514
+Passenger Cars;Gasoline 1,4 - 2,0 l;Gasoline;ECE 15/04;1 757
+Passenger Cars;Gasoline 1,4 - 2,0 l;Gasoline;PC Euro 1 - 91/441/EEC;3 308
+Passenger Cars;Gasoline 1,4 - 2,0 l;Gasoline;PC Euro 2 - 94/12/EEC;3 387
+Passenger Cars;Gasoline 1,4 - 2,0 l;Gasoline;PC Euro 3 - 98/69/EC Stage2000;8 223
+Passenger Cars;Gasoline 1,4 - 2,0 l;Gasoline;PC Euro 4 - 98/69/EC Stage2005;16 378
+Passenger Cars;Gasoline 1,4 - 2,0 l;Gasoline;PC Euro 5 - EC 715/2007;10 989
+Passenger Cars;Gasoline 1,4 - 2,0 l;Gasoline;PC Euro 6 - EC 715/2007;4 061
+Passenger Cars;Gasoline >2,0 l;Gasoline;PRE ECE;5 031
+Passenger Cars;Gasoline >2,0 l;Gasoline;ECE 15/00-01;662
+Passenger Cars;Gasoline >2,0 l;Gasoline;ECE 15/02;1 571
+Passenger Cars;Gasoline >2,0 l;Gasoline;ECE 15/03;1 238
+Passenger Cars;Gasoline >2,0 l;Gasoline;ECE 15/04;1 567
+Passenger Cars;Gasoline >2,0 l;Gasoline;PC Euro 1 - 91/441/EEC;1 611
+Passenger Cars;Gasoline >2,0 l;Gasoline;PC Euro 2 - 94/12/EEC;788
+Passenger Cars;Gasoline >2,0 l;Gasoline;PC Euro 3 - 98/69/EC Stage2000;1 683
+Passenger Cars;Gasoline >2,0 l;Gasoline;PC Euro 4 - 98/69/EC Stage2005;3 511
+Passenger Cars;Gasoline >2,0 l;Gasoline;PC Euro 5 - EC 715/2007;1 789
+Passenger Cars;Gasoline >2,0 l;Gasoline;PC Euro 6 - EC 715/2007;513
+Passenger Cars;Diesel <1,4 l;Diesel;PC Euro 4 - 98/69/EC Stage2005;10 880
+Passenger Cars;Diesel <1,4 l;Diesel;PC Euro 5 - EC 715/2007;9 332
+Passenger Cars;Diesel <1,4 l;Diesel;PC Euro 6 - EC 715/2007;621
+Passenger Cars;Diesel 1,4 - 2,0 l;Diesel;Conventional;1 950
+Passenger Cars;Diesel 1,4 - 2,0 l;Diesel;PC Euro 1 - 91/441/EEC;1 779
+Passenger Cars;Diesel 1,4 - 2,0 l;Diesel;PC Euro 2 - 94/12/EEC;9 351
+Passenger Cars;Diesel 1,4 - 2,0 l;Diesel;PC Euro 3 - 98/69/EC Stage2000;36 916
+Passenger Cars;Diesel 1,4 - 2,0 l;Diesel;PC Euro 4 - 98/69/EC Stage2005;59 544
+Passenger Cars;Diesel 1,4 - 2,0 l;Diesel;PC Euro 5 - EC 715/2007;123 185
+Passenger Cars;Diesel 1,4 - 2,0 l;Diesel;PC Euro 6 - EC 715/2007;31 645
+Passenger Cars;Diesel >2,0 l;Diesel;Conventional;2 346
+Passenger Cars;Diesel >2,0 l;Diesel;PC Euro 1 - 91/441/EEC;716
+Passenger Cars;Diesel >2,0 l;Diesel;PC Euro 2 - 94/12/EEC;2 144
+Passenger Cars;Diesel >2,0 l;Diesel;PC Euro 3 - 98/69/EC Stage2000;9 208
+Passenger Cars;Diesel >2,0 l;Diesel;PC Euro 4 - 98/69/EC Stage2005;12 035
+Passenger Cars;Diesel >2,0 l;Diesel;PC Euro 5 - EC 715/2007;14 923
+Passenger Cars;Diesel >2,0 l;Diesel;PC Euro 6 - EC 715/2007;5 310
+Passenger Cars;LPG;LPG;Conventional;195
+Passenger Cars;LPG;LPG;PC Euro 1 - 91/441/EEC;81
+Passenger Cars;LPG;LPG;PC Euro 2 - 94/12/EEC;94
+Passenger Cars;LPG;LPG;PC Euro 3 - 98/69/EC Stage2000;229
+Passenger Cars;LPG;LPG;PC Euro 4 - 98/69/EC Stage2005;323
+Passenger Cars;LPG;LPG;PC Euro 5 - EC 715/2007;45
+Passenger Cars;LPG;LPG;PC Euro 6 - EC 715/2007;1
+Passenger Cars;E85;E85;PC Euro 4 - 98/69/EC Stage2005;1
+Passenger Cars;E85;E85;PC Euro 5 - EC 715/2007;14
+Passenger Cars;E85;E85;PC Euro 6 - EC 715/2007;0
+Passenger Cars;CNG;CNG;PC Euro 4 - 98/69/EC Stage2005;9
+Passenger Cars;CNG;CNG;PC Euro 5 - EC 715/2007;79
+Passenger Cars;CNG;CNG;PC Euro 6 - EC 715/2007;76
+Passenger Cars;Hybrid Gasoline <1,4 l;Gasoline;PC Euro 4 - 98/69/EC Stage2005;240
+Passenger Cars;Hybrid Gasoline 1,4 - 2,0 l;Gasoline;PC Euro 4 - 98/69/EC Stage2005;3 332
+Passenger Cars;Hybrid Gasoline >2,0 l;Gasoline;PC Euro 4 - 98/69/EC Stage2005;535
+Light Commercial Vehicles;Gasoline <3,5t;Gasoline;Conventional;2 033
+Light Commercial Vehicles;Gasoline <3,5t;Gasoline;LD Euro 1 - 93/59/EEC;141
+Light Commercial Vehicles;Gasoline <3,5t;Gasoline;LD Euro 2 - 96/69/EEC;268
+Light Commercial Vehicles;Gasoline <3,5t;Gasoline;LD Euro 3 - 98/69/EC Stage2000;211
+Light Commercial Vehicles;Gasoline <3,5t;Gasoline;LD Euro 4 - 98/69/EC Stage2005;306
+Light Commercial Vehicles;Gasoline <3,5t;Gasoline;LD Euro 5 - 2008 Standards;559
+Light Commercial Vehicles;Gasoline <3,5t;Gasoline;LD Euro 6;83
+Light Commercial Vehicles;Diesel <3,5 t;Diesel;Conventional;1 145
+Light Commercial Vehicles;Diesel <3,5 t;Diesel;LD Euro 1 - 93/59/EEC;788
+Light Commercial Vehicles;Diesel <3,5 t;Diesel;LD Euro 2 - 96/69/EEC;4 230
+Light Commercial Vehicles;Diesel <3,5 t;Diesel;LD Euro 3 - 98/69/EC Stage2000;10 230
+Light Commercial Vehicles;Diesel <3,5 t;Diesel;LD Euro 4 - 98/69/EC Stage2005;17 027
+Light Commercial Vehicles;Diesel <3,5 t;Diesel;LD Euro 5 - 2008 Standards;27 288
+Light Commercial Vehicles;Diesel <3,5 t;Diesel;LD Euro 6;280
+Heavy Duty Trucks;Gasoline >3,5 t;Gasoline;Conventional;335
+Heavy Duty Trucks;Rigid <=7,5 t;Diesel;Conventional;416
+Heavy Duty Trucks;Rigid <=7,5 t;Diesel;HD Euro I - 91/542/EEC Stage I;41
+Heavy Duty Trucks;Rigid <=7,5 t;Diesel;HD Euro II - 91/542/EEC Stage II;258
+Heavy Duty Trucks;Rigid <=7,5 t;Diesel;HD Euro III - 2000 Standards;383
+Heavy Duty Trucks;Rigid <=7,5 t;Diesel;HD Euro IV - 2005 Standards;310
+Heavy Duty Trucks;Rigid <=7,5 t;Diesel;HD Euro V - 2008 Standards;1 226
+Heavy Duty Trucks;Rigid <=7,5 t;Diesel;HD Euro VI;68
+Heavy Duty Trucks;Rigid 7,5 - 12 t;Diesel;Conventional;467
+Heavy Duty Trucks;Rigid 7,5 - 12 t;Diesel;HD Euro I - 91/542/EEC Stage I;92
+Heavy Duty Trucks;Rigid 7,5 - 12 t;Diesel;HD Euro II - 91/542/EEC Stage II;423
+Heavy Duty Trucks;Rigid 7,5 - 12 t;Diesel;HD Euro III - 2000 Standards;966
+Heavy Duty Trucks;Rigid 7,5 - 12 t;Diesel;HD Euro IV - 2005 Standards;527
+Heavy Duty Trucks;Rigid 7,5 - 12 t;Diesel;HD Euro V - 2008 Standards;648
+Heavy Duty Trucks;Rigid 7,5 - 12 t;Diesel;HD Euro VI;104
+Heavy Duty Trucks;Rigid 12 - 14 t;Diesel;Conventional;140
+Heavy Duty Trucks;Rigid 12 - 14 t;Diesel;HD Euro I - 91/542/EEC Stage I;15
+Heavy Duty Trucks;Rigid 12 - 14 t;Diesel;HD Euro II - 91/542/EEC Stage II;38
+Heavy Duty Trucks;Rigid 12 - 14 t;Diesel;HD Euro III - 2000 Standards;30
+Heavy Duty Trucks;Rigid 12 - 14 t;Diesel;HD Euro IV - 2005 Standards;11
+Heavy Duty Trucks;Rigid 12 - 14 t;Diesel;HD Euro V - 2008 Standards;79
+Heavy Duty Trucks;Rigid 12 - 14 t;Diesel;HD Euro VI;74
+Heavy Duty Trucks;Rigid 14 - 20 t;Diesel;Conventional;230
+Heavy Duty Trucks;Rigid 14 - 20 t;Diesel;HD Euro I - 91/542/EEC Stage I;57
+Heavy Duty Trucks;Rigid 14 - 20 t;Diesel;HD Euro II - 91/542/EEC Stage II;283
+Heavy Duty Trucks;Rigid 14 - 20 t;Diesel;HD Euro III - 2000 Standards;675
+Heavy Duty Trucks;Rigid 14 - 20 t;Diesel;HD Euro IV - 2005 Standards;341
+Heavy Duty Trucks;Rigid 14 - 20 t;Diesel;HD Euro V - 2008 Standards;543
+Heavy Duty Trucks;Rigid 14 - 20 t;Diesel;HD Euro VI;123
+Heavy Duty Trucks;Rigid 20 - 26 t;Diesel;Conventional;18
+Heavy Duty Trucks;Rigid 20 - 26 t;Diesel;HD Euro I - 91/542/EEC Stage I;1
+Heavy Duty Trucks;Rigid 20 - 26 t;Diesel;HD Euro II - 91/542/EEC Stage II;9
+Heavy Duty Trucks;Rigid 20 - 26 t;Diesel;HD Euro III - 2000 Standards;90
+Heavy Duty Trucks;Rigid 20 - 26 t;Diesel;HD Euro IV - 2005 Standards;19
+Heavy Duty Trucks;Rigid 20 - 26 t;Diesel;HD Euro V - 2008 Standards;21
+Heavy Duty Trucks;Rigid 20 - 26 t;Diesel;HD Euro VI;29
+Heavy Duty Trucks;Rigid 26 - 28 t;Diesel;Conventional;47
+Heavy Duty Trucks;Rigid 26 - 28 t;Diesel;HD Euro I - 91/542/EEC Stage I;24
+Heavy Duty Trucks;Rigid 26 - 28 t;Diesel;HD Euro II - 91/542/EEC Stage II;134
+Heavy Duty Trucks;Rigid 26 - 28 t;Diesel;HD Euro III - 2000 Standards;261
+Heavy Duty Trucks;Rigid 26 - 28 t;Diesel;HD Euro IV - 2005 Standards;150
+Heavy Duty Trucks;Rigid 26 - 28 t;Diesel;HD Euro V - 2008 Standards;231
+Heavy Duty Trucks;Rigid 26 - 28 t;Diesel;HD Euro VI;45
+Heavy Duty Trucks;Rigid 28 - 32 t;Diesel;Conventional;2
+Heavy Duty Trucks;Rigid 28 - 32 t;Diesel;HD Euro I - 91/542/EEC Stage I;0
+Heavy Duty Trucks;Rigid 28 - 32 t;Diesel;HD Euro II - 91/542/EEC Stage II;2
+Heavy Duty Trucks;Rigid 28 - 32 t;Diesel;HD Euro III - 2000 Standards;13
+Heavy Duty Trucks;Rigid 28 - 32 t;Diesel;HD Euro IV - 2005 Standards;21
+Heavy Duty Trucks;Rigid 28 - 32 t;Diesel;HD Euro V - 2008 Standards;36
+Heavy Duty Trucks;Rigid 28 - 32 t;Diesel;HD Euro VI;17
+Heavy Duty Trucks;Rigid >32 t;Diesel;Conventional;132
+Heavy Duty Trucks;Rigid >32 t;Diesel;HD Euro I - 91/542/EEC Stage I;43
+Heavy Duty Trucks;Rigid >32 t;Diesel;HD Euro II - 91/542/EEC Stage II;213
+Heavy Duty Trucks;Rigid >32 t;Diesel;HD Euro III - 2000 Standards;532
+Heavy Duty Trucks;Rigid >32 t;Diesel;HD Euro IV - 2005 Standards;273
+Heavy Duty Trucks;Rigid >32 t;Diesel;HD Euro V - 2008 Standards;425
+Heavy Duty Trucks;Rigid >32 t;Diesel;HD Euro VI;132
+Heavy Duty Trucks;Articulated 14 - 20 t;Diesel;Conventional;4
+Heavy Duty Trucks;Articulated 14 - 20 t;Diesel;HD Euro I - 91/542/EEC Stage I;1
+Heavy Duty Trucks;Articulated 14 - 20 t;Diesel;HD Euro II - 91/542/EEC Stage II;7
+Heavy Duty Trucks;Articulated 14 - 20 t;Diesel;HD Euro III - 2000 Standards;31
+Heavy Duty Trucks;Articulated 14 - 20 t;Diesel;HD Euro IV - 2005 Standards;16
+Heavy Duty Trucks;Articulated 14 - 20 t;Diesel;HD Euro V - 2008 Standards;59
+Heavy Duty Trucks;Articulated 14 - 20 t;Diesel;HD Euro VI;44
+Heavy Duty Trucks;Articulated 20 - 28 t;Diesel;Conventional;1
+Heavy Duty Trucks;Articulated 20 - 28 t;Diesel;HD Euro I - 91/542/EEC Stage I;0
+Heavy Duty Trucks;Articulated 20 - 28 t;Diesel;HD Euro II - 91/542/EEC Stage II;2
+Heavy Duty Trucks;Articulated 20 - 28 t;Diesel;HD Euro III - 2000 Standards;8
+Heavy Duty Trucks;Articulated 20 - 28 t;Diesel;HD Euro IV - 2005 Standards;4
+Heavy Duty Trucks;Articulated 20 - 28 t;Diesel;HD Euro V - 2008 Standards;16
+Heavy Duty Trucks;Articulated 20 - 28 t;Diesel;HD Euro VI;12
+Heavy Duty Trucks;Articulated 28 - 34 t;Diesel;Conventional;1
+Heavy Duty Trucks;Articulated 28 - 34 t;Diesel;HD Euro I - 91/542/EEC Stage I;0
+Heavy Duty Trucks;Articulated 28 - 34 t;Diesel;HD Euro II - 91/542/EEC Stage II;2
+Heavy Duty Trucks;Articulated 28 - 34 t;Diesel;HD Euro III - 2000 Standards;7
+Heavy Duty Trucks;Articulated 28 - 34 t;Diesel;HD Euro IV - 2005 Standards;4
+Heavy Duty Trucks;Articulated 28 - 34 t;Diesel;HD Euro V - 2008 Standards;13
+Heavy Duty Trucks;Articulated 28 - 34 t;Diesel;HD Euro VI;10
+Heavy Duty Trucks;Articulated 34 - 40 t;Diesel;Conventional;4
+Heavy Duty Trucks;Articulated 34 - 40 t;Diesel;HD Euro I - 91/542/EEC Stage I;1
+Heavy Duty Trucks;Articulated 34 - 40 t;Diesel;HD Euro II - 91/542/EEC Stage II;6
+Heavy Duty Trucks;Articulated 34 - 40 t;Diesel;HD Euro III - 2000 Standards;25
+Heavy Duty Trucks;Articulated 34 - 40 t;Diesel;HD Euro IV - 2005 Standards;13
+Heavy Duty Trucks;Articulated 34 - 40 t;Diesel;HD Euro V - 2008 Standards;46
+Heavy Duty Trucks;Articulated 34 - 40 t;Diesel;HD Euro VI;34
+Heavy Duty Trucks;Articulated 40 - 50 t;Diesel;Conventional;165
+Heavy Duty Trucks;Articulated 40 - 50 t;Diesel;HD Euro I - 91/542/EEC Stage I;53
+Heavy Duty Trucks;Articulated 40 - 50 t;Diesel;HD Euro II - 91/542/EEC Stage II;258
+Heavy Duty Trucks;Articulated 40 - 50 t;Diesel;HD Euro III - 2000 Standards;1 155
+Heavy Duty Trucks;Articulated 40 - 50 t;Diesel;HD Euro IV - 2005 Standards;589
+Heavy Duty Trucks;Articulated 40 - 50 t;Diesel;HD Euro V - 2008 Standards;2 156
+Heavy Duty Trucks;Articulated 40 - 50 t;Diesel;HD Euro VI;1 607
+Buses;Urban Buses Midi <=15 t;Diesel;Conventional;0
+Buses;Urban Buses Midi <=15 t;Diesel;HD Euro I - 91/542/EEC Stage I;3
+Buses;Urban Buses Midi <=15 t;Diesel;HD Euro II - 91/542/EEC Stage II;44
+Buses;Urban Buses Midi <=15 t;Diesel;HD Euro III - 2000 Standards;0
+Buses;Urban Buses Midi <=15 t;Diesel;HD Euro IV - 2005 Standards;0
+Buses;Urban Buses Midi <=15 t;Diesel;HD Euro V - 2008 Standards;0
+Buses;Urban Buses Midi <=15 t;Diesel;HD Euro VI;0
+Buses;Urban Buses Standard 15 - 18 t;Diesel;Conventional;0
+Buses;Urban Buses Standard 15 - 18 t;Diesel;HD Euro I - 91/542/EEC Stage I;0
+Buses;Urban Buses Standard 15 - 18 t;Diesel;HD Euro II - 91/542/EEC Stage II;88
+Buses;Urban Buses Standard 15 - 18 t;Diesel;HD Euro III - 2000 Standards;0
+Buses;Urban Buses Standard 15 - 18 t;Diesel;HD Euro IV - 2005 Standards;127
+Buses;Urban Buses Standard 15 - 18 t;Diesel;HD Euro V - 2008 Standards;189
+Buses;Urban Buses Standard 15 - 18 t;Diesel;HD Euro VI;93
+Buses;Urban Buses Articulated >18 t;Diesel;Conventional;0
+Buses;Urban Buses Articulated >18 t;Diesel;HD Euro I - 91/542/EEC Stage I;0
+Buses;Urban Buses Articulated >18 t;Diesel;HD Euro II - 91/542/EEC Stage II;0
+Buses;Urban Buses Articulated >18 t;Diesel;HD Euro III - 2000 Standards;0
+Buses;Urban Buses Articulated >18 t;Diesel;HD Euro IV - 2005 Standards;31
+Buses;Urban Buses Articulated >18 t;Diesel;HD Euro V - 2008 Standards;52
+Buses;Urban Buses Articulated >18 t;Diesel;HD Euro VI;79
+Buses;Coaches Standard <=18 t;Diesel;Conventional;63
+Buses;Coaches Standard <=18 t;Diesel;HD Euro I - 91/542/EEC Stage I;18
+Buses;Coaches Standard <=18 t;Diesel;HD Euro II - 91/542/EEC Stage II;114
+Buses;Coaches Standard <=18 t;Diesel;HD Euro III - 2000 Standards;136
+Buses;Coaches Standard <=18 t;Diesel;HD Euro IV - 2005 Standards;122
+Buses;Coaches Standard <=18 t;Diesel;HD Euro V - 2008 Standards;170
+Buses;Coaches Standard <=18 t;Diesel;HD Euro VI;59
+Buses;Coaches Articulated >18 t;Diesel;Conventional;24
+Buses;Coaches Articulated >18 t;Diesel;HD Euro I - 91/542/EEC Stage I;57
+Buses;Coaches Articulated >18 t;Diesel;HD Euro II - 91/542/EEC Stage II;239
+Buses;Coaches Articulated >18 t;Diesel;HD Euro III - 2000 Standards;178
+Buses;Coaches Articulated >18 t;Diesel;HD Euro IV - 2005 Standards;112
+Buses;Coaches Articulated >18 t;Diesel;HD Euro V - 2008 Standards;256
+Buses;Coaches Articulated >18 t;Diesel;HD Euro VI;188
+Buses;Urban CNG Buses;CNG;HD Euro I - 91/542/EEC Stage I;0
+Buses;Urban CNG Buses;CNG;HD Euro II - 91/542/EEC Stage II;0
+Buses;Urban CNG Buses;CNG;HD Euro III - 2000 Standards;0
+Buses;Urban CNG Buses;CNG;EEV;0
+Buses;Urban Biodiesel Buses;Biodiesel (100%);Conventional;0
+Buses;Urban Biodiesel Buses;Biodiesel (100%);HD Euro I - 91/542/EEC Stage I;0
+Buses;Urban Biodiesel Buses;Biodiesel (100%);HD Euro II - 91/542/EEC Stage II;0
+Buses;Urban Biodiesel Buses;Biodiesel (100%);HD Euro III - 2000 Standards;0
+Buses;Urban Biodiesel Buses;Biodiesel (100%);HD Euro IV - 2005 Standards;0
+Buses;Urban Biodiesel Buses;Biodiesel (100%);HD Euro V - 2008 Standards;0
+Buses;Urban Biodiesel Buses;Biodiesel (100%);HD Euro VI;0
+Mopeds;2-stroke <50 cm³;Gasoline;Conventional;22
+Mopeds;2-stroke <50 cm³;Gasoline;Mop - Euro I;322
+Mopeds;2-stroke <50 cm³;Gasoline;Mop - Euro II;980
+Mopeds;2-stroke <50 cm³;Gasoline;Mop - Euro III;4 148
+Mopeds;4-stroke <50 cm³;Gasoline;Conventional;22
+Mopeds;4-stroke <50 cm³;Gasoline;Mop - Euro I;322
+Mopeds;4-stroke <50 cm³;Gasoline;Mop - Euro II;980
+Mopeds;4-stroke <50 cm³;Gasoline;Mop - Euro III;4 148
+Motorcycles;2-stroke >50 cm³;Gasoline;Conventional;854
+Motorcycles;2-stroke >50 cm³;Gasoline;Mot - Euro I;1
+Motorcycles;2-stroke >50 cm³;Gasoline;Mot - Euro II;0
+Motorcycles;2-stroke >50 cm³;Gasoline;Mot - Euro III;0
+Motorcycles;4-stroke <250 cm³;Gasoline;Conventional;4 022
+Motorcycles;4-stroke <250 cm³;Gasoline;Mot - Euro I;1 044
+Motorcycles;4-stroke <250 cm³;Gasoline;Mot - Euro II;1 102
+Motorcycles;4-stroke <250 cm³;Gasoline;Mot - Euro III;8 371
+Motorcycles;4-stroke 250 - 750 cm³;Gasoline;Conventional;2 885
+Motorcycles;4-stroke 250 - 750 cm³;Gasoline;Mot - Euro I;1 242
+Motorcycles;4-stroke 250 - 750 cm³;Gasoline;Mot - Euro II;1 038
+Motorcycles;4-stroke 250 - 750 cm³;Gasoline;Mot - Euro III;3 901
+Motorcycles;4-stroke >750 cm³;Gasoline;Conventional;1 729
+Motorcycles;4-stroke >750 cm³;Gasoline;Mot - Euro I;1 334
+Motorcycles;4-stroke >750 cm³;Gasoline;Mot - Euro II;726
+Motorcycles;4-stroke >750 cm³;Gasoline;Mot - Euro III;4 052
