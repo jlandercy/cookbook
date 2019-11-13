@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Alice"
+       ,"email": "alice@mail.org"
+    }
+   ,{
+        "name": "Bob"
+       ,"email": "bob@mail.org"
+    }
+   ,{
+        "name": "Claire"
+       ,"email": "claire@mail.org"
+    }
+   ,{
+        "name": "David"
+       ,"email": "david@mail.org"
+    }
+   ,{
+        "name": "Etienne"
+       ,"email": "etienne@mail.org"
+    }
+]

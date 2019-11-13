@@ -1,0 +1,7 @@
+Hello {username:},
+
+Your target is {targetname:} ({targetemail:}).
+
+Best Regards,
+
+{signature:}
