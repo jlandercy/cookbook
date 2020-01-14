@@ -83,7 +83,7 @@ class Bingo:
         self._numbers = set(range(nmin, nmax + 1))
     
     def __str__(self):
-        return "<Bingo {}>".format(list(self.cards))
+        return "<Bingo:{}-{}, {} Card(s)>".format(min(self.numbers), max(self.numbers), len(self.cards))
     
     def __repr__(self):
         return str(self)
@@ -95,3 +95,10 @@ class Bingo:
     @property
     def numbers(self):
         return self._numbers
+    
+    def draw(self, n=30, numbers=None, creator=tuple):
+        if numbers is None:
+            numbers = self.numbers
+        return creator(np.random.choice(list(numbers), size=n, replace=False))
+    
+    
