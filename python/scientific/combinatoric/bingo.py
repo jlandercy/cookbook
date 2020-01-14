@@ -159,5 +159,12 @@ class Bingo:
                     "union": xa.union(xb),
                 }
 
-
-
+    def solution_banned(self, n=0):
+        for (a, b) in self.card_combinations():
+            sas = a.solutions()
+            for sa in sas:
+                yield {
+                    sa: sas[sa],
+                    "player": b._name,
+                    "intersection": set(b.numbers).intersection(sas[sa])
+                }
