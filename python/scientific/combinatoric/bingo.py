@@ -101,7 +101,7 @@ class Card:
             sols.append("{}.D0".format(self._name))
         if (d1 == 5):
             sols.append("{}.D1".format(self._name))
-        return tuple(sols)
+        return {"solutions": tuple(sols), "marked": np.sum(m==self._joker)-1}
 
         
 class Bingo:
