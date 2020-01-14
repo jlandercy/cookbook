@@ -77,9 +77,10 @@ class Card:
         
 class Bingo:
     
-    def __init__(self, config):
+    def __init__(self, config, nmin=1, nmax=75):
         assert isinstance(config, dict)
         self._config = {k: Card(v, name=k) for (k, v) in config.items()}
+        self._numbers = set(range(nmin, nmax + 1))
     
     def __str__(self):
         return "<Bingo {}>".format(list(self.cards))
@@ -91,4 +92,6 @@ class Bingo:
     def cards(self):
         return self._config
         
-    
+    @property
+    def numbers(self):
+        return self._numbers
