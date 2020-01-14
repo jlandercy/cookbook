@@ -1,4 +1,6 @@
+import itertools
 import numpy as np
+
 
 class Card:
     
@@ -37,18 +39,18 @@ class Card:
     
     def rows(self, tagged=True, creator=tuple):
         if tagged:
-            return {"{}.R{}".format(self._name[0], k): creator(self.matrix[k, :]) for k in [0,1,3,4]}
+            return {"{}.R{}".format(self._name, k): creator(self.matrix[k, :]) for k in [0,1,3,4]}
         else:
             return tuple([creator(self.matrix[k, :]) for k in [0,1,3,4]])
     
     def columns(self, tagged=True, creator=tuple):
         if tagged:
-            return {"{}.C{}".format(self._name[0], k): creator(self.matrix[:, k]) for k in [0,1,3,4]}
+            return {"{}.C{}".format(self._name, k): creator(self.matrix[:, k]) for k in [0,1,3,4]}
         else:
             return tuple([creator(self.matrix[k, :]) for k in [0,1,3,4]])
         
     def specials(self, tagged=True, creator=tuple):
-        labels = ["D1S", "D2S", "R2S", "C2S"]
+        labels = ["D0", "D1", "R2", "C2"]
         sols = [
             np.diag(self.matrix),
             np.array(list(reversed(np.diag(np.fliplr(self.matrix))))),
@@ -56,7 +58,7 @@ class Card:
             self.matrix[:,2],
         ]
         if tagged:
-            return {"{}.{}".format(self._name[0], k): creator(sols[i]) for i,k in enumerate(labels) }
+            return {"{}.{}".format(self._name, k): creator(sols[i]) for i,k in enumerate(labels) }
         else:
             return tuple([creator(sol) for sol in sols])
 
@@ -73,6 +75,33 @@ class Card:
             sols.extend(self.columns(tagged=False, creator=creator))
             sols.extend(self.specials(tagged=False, creator=creator))
             return tuple(sols)
+        
+    def mark(self, numbers=[]):
+        m = self.matrix.copy()
+        for i in numbers:
+            c = np.where(m == i)
+            if c[0].size > 0:
+                m[c[0][0],c[1][0]] = 0
+        return m
+    
+    def check(self, numbers=[], m=None):
+        if m is None:
+            m = self.mark(numbers=numbers)
+        sols = []
+        for k in range(5):
+            col = np.sum(m[:,k]==self._joker)
+            row = np.sum(m[k,:]==self._joker)
+            if (col == 5):
+                sols.append("{}.C{}".format(self._name, k))
+            if (row == 5):
+                sols.append("{}.R{}".format(self._name, k))
+        d0 = np.sum(np.array([m[k,k] for k in range(5)])==self._joker)
+        d1 = np.sum(np.array([m[k,5-k-1] for k in range(5)])==self._joker)
+        if (d0 == 5):
+            sols.append("{}.D0".format(self._name))
+        if (d1 == 5):
+            sols.append("{}.D1".format(self._name))
+        return tuple(sols)
 
         
 class Bingo:
@@ -101,4 +130,34 @@ class Bingo:
             numbers = self.numbers
         return creator(np.random.choice(list(numbers), size=n, replace=False))
     
+    def check(self, numbers):
+        return {k: self.cards[k].check(numbers) for k in self.cards}
+
+    def card_product(self, n=2):
+        for (a, b) in itertools.product(self.cards, repeat=n):
+            yield (self.cards[a], self.cards[b])
     
+    def card_permutations(self, n=2):
+        for (a, b) in itertools.permutations(self.cards, n):
+            yield (self.cards[a], self.cards[b])
+            
+    def card_combinations(self, n=2):
+        for (a, b) in itertools.combinations(self.cards, n):
+            yield (self.cards[a], self.cards[b])
+    
+    def solution_combprod(self):
+        for (a, b) in self.card_combinations():
+            sas = a.solutions()
+            sbs = b.solutions()
+            for (sa, sb) in itertools.product(sas, sbs):
+                xa = set(sas[sa])
+                xb = set(sbs[sb])
+                yield {
+                    "solutions": {sa: sas[sa], sb: sbs[sb]},
+                    "equals": xa == xb,
+                    "intersection": xa.intersection(xb),
+                    "union": xa.union(xb),
+                }
+
+
+
