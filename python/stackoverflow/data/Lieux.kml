@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Lieux</name>
+    <Style id="icon-1502-880E4F-nodesc-normal">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1502-880E4F-nodesc-highlight">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1502-880E4F-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-880E4F-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-880E4F-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-880E4F-normal">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-880E4F-highlight">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-880E4F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-880E4F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-880E4F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-880E4F-nodesc-normal">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-880E4F-nodesc-highlight">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-880E4F-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-880E4F-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-880E4F-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>ASBL - Antenne Quartier Libre
+</name>
+      <styleUrl>#icon-1899-880E4F-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.37062370000001,50.8336614,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ASBL - Ecole de devoirs Le Vivier
+</name>
+      <styleUrl>#icon-1899-880E4F-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.37973650000004,50.8316953,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ASBL - Ecole de devoirs La Mosaïque
+</name>
+      <styleUrl>#icon-1899-880E4F-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.37224190000006,50.8327555,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[ASBL - Ecole de devoirs L'Aulne
+]]></name>
+      <styleUrl>#icon-1899-880E4F-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.38023910000004,50.8247007,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[ASBL - Ecole de devoirs L'Aulne
+]]></name>
+      <styleUrl>#icon-1899-880E4F-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.38071400000001,50.8250412,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ASBL - Emergency XL</name>
+      <styleUrl>#icon-1899-880E4F-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.37606359999995,50.8331416,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ASBL - Frigo solidaire
+</name>
+      <styleUrl>#icon-1899-880E4F-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.39079749999996,50.812597,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ASBL - Habitat et Rénovation
+</name>
+      <styleUrl>#icon-1899-880E4F-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.38635820000002,50.8239869,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ASBL - Maison de la Solidarité
+</name>
+      <styleUrl>#icon-1899-880E4F-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.3739468,50.8348648,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ASBL - Maison de Quartier Malibran</name>
+      <styleUrl>#icon-1899-880E4F-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.37412399999994,50.8280194,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ASBL - Malinard
+</name>
+      <styleUrl>#icon-1899-880E4F-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.37434800000005,50.8289694,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ASBL - Médiation locale
+</name>
+      <styleUrl>#icon-1899-880E4F-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.37548600000002,50.8291329,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ASBL - Question Santé
+</name>
+      <description>info@questionsante.org</description>
+      <styleUrl>#icon-1899-880E4F</styleUrl>
+      <Point>
+        <coordinates>
+          4.3702668,50.8336222,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ASBL - Tournevie et Communa
+</name>
+      <styleUrl>#icon-1899-880E4F-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.37654980000002,50.8304654,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Centre médical - Free Clinic</name>
+      <styleUrl>#icon-1899-880E4F-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.36904010000001,50.8359582,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Centre médical - Collectif Santé
+</name>
+      <styleUrl>#icon-1899-880E4F-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.36899540000002,50.8296165,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Centre médical - Malibran
+</name>
+      <styleUrl>#icon-1899-880E4F-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.3734465,50.8302521,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[CPAS d'Ixelles
+]]></name>
+      <description>info.csxl@cpasixelles.brussels</description>
+      <styleUrl>#icon-1899-880E4F</styleUrl>
+      <Point>
+        <coordinates>
+          4.37930159999996,50.824561,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Crèche - Le Berceau
+</name>
+      <styleUrl>#icon-1899-880E4F-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.36076579999997,50.8185676,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Crèche - Les Choux d'Ixelles
+]]></name>
+      <styleUrl>#icon-1899-880E4F-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.39594149999994,50.802155,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Crèche - Les Petits Poneys</name>
+      <styleUrl>#icon-1899-880E4F-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.3913033,50.8102524,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Crèche - Sainte-Croix
+</name>
+      <styleUrl>#icon-1899-880E4F-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.37016429999994,50.8265473,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Crèche - Vanille Chocolat</name>
+      <styleUrl>#icon-1899-880E4F-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.36430710000002,50.8235265,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ecole - Ecole Sainte-Trinité (m, p)
+</name>
+      <description>trinite.nid@gmail.com</description>
+      <styleUrl>#icon-1899-880E4F</styleUrl>
+      <Point>
+        <coordinates>
+          4.37466169999993,50.8263229,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ecole - Ecole n°2 (m, p)
+</name>
+      <description><![CDATA[Groupe Scolaire Sans-Souci et Petits Moineaux<br>ec.sanssouci@ixelles.brussels<br>http://ecolesanssouci.ixelles.be/]]></description>
+      <styleUrl>#icon-1899-880E4F</styleUrl>
+      <Point>
+        <coordinates>
+          4.37325409999994,50.8322987,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ecole - Ecole n°14 (m)
+</name>
+      <description><![CDATA[Groupe Scolaire Sans-Souci et Petits Moineaux<br>ec.sanssouci@ixelles.brussels<br>http://ecolesanssouci.ixelles.be/]]></description>
+      <styleUrl>#icon-1899-880E4F</styleUrl>
+      <Point>
+        <coordinates>
+          4.37913430000003,50.8338844,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ecole - Ecole n°4 (m, p)
+</name>
+      <description><![CDATA[Eugène Flagey au coeur d'Ixelles<br>melie.litamole@ixelles.brussels<br>http://ecoleducoeurdixelles.ixelles.be/]]></description>
+      <styleUrl>#icon-1899-880E4F</styleUrl>
+      <Point>
+        <coordinates>
+          4.36516540000002,50.8344161,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ecole - Ecole n°5 (m, p)
+</name>
+      <description><![CDATA[ec.etangs@ixelles.brussels<br>http://ecoledesetangs.ixelles.be/]]></description>
+      <styleUrl>#icon-1899-880E4F</styleUrl>
+      <Point>
+        <coordinates>
+          4.37392279999995,50.8250383,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ecole - Ecole en Mouvement (p)
+</name>
+      <description><![CDATA[ec.mouvement@ixelles.brussels<br>http://ecoleenmouvement.ixelles.be/]]></description>
+      <styleUrl>#icon-1899-880E4F</styleUrl>
+      <Point>
+        <coordinates>
+          4.37368370000002,50.8246056,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ecole - Ecole n°7 (m, p)
+</name>
+      <description><![CDATA[Groupe Scolaire Bois de la Cambre " Marinette De Cloedt " & Petits Poneys<br>gertruda.bouffioux@ixelles.brussels<br>http://ecole7duboisdelacambre.ixelles.be/]]></description>
+      <styleUrl>#icon-1899-880E4F</styleUrl>
+      <Point>
+        <coordinates>
+          4.39044360000003,50.8072839,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ecole - Ecole n°15 (m)
+</name>
+      <description><![CDATA[Bois de la Cambre " Marinette De Cloedt " & Petits Poneys<br>gertruda.bouffioux@ixelles.brussels<br>http://ecole7duboisdelacambre.ixelles.be/]]></description>
+      <styleUrl>#icon-1899-880E4F</styleUrl>
+      <Point>
+        <coordinates>
+          4.3913033,50.8102524,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ecole - Ecole n°8 (m, p)
+</name>
+      <description><![CDATA[celine.lorand@ixelles.brussels<br>http://ecole8duboisdelacambre.ixelles.be/]]></description>
+      <styleUrl>#icon-1899-880E4F</styleUrl>
+      <Point>
+        <coordinates>
+          4.39049339999997,50.8070562,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ecole - Ecole n°9 (p)
+</name>
+      <description><![CDATA[Groupe scolaire Tenbosch<br>sylvie.kazoglis@ixelles.brussels<br>http://ecoletenbosch.ixelles.be/]]></description>
+      <styleUrl>#icon-1899-880E4F</styleUrl>
+      <Point>
+        <coordinates>
+          4.36151930000005,50.8226214,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ecole - Ecole n°10 (m)
+</name>
+      <description><![CDATA[Groupe scolaire Tenbosch<br>sylvie.kazoglis@ixelles.brussels<br>http://ecoletenbosch.ixelles.be/]]></description>
+      <styleUrl>#icon-1899-880E4F</styleUrl>
+      <Point>
+        <coordinates>
+          4.36201410000001,50.8233016,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ecole - Ecole n°23 (m)
+</name>
+      <description><![CDATA[Groupe scolaire Tenbosch<br>sylvie.kazoglis@ixelles.brussels<br>http://ecoletenbosch.ixelles.be/]]></description>
+      <styleUrl>#icon-1899-880E4F</styleUrl>
+      <Point>
+        <coordinates>
+          4.36082740000006,50.8188751,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ecole - Ecole n°12 (m, p)
+</name>
+      <description><![CDATA[Jardins d'Elise<br>ec.jardinselise@ixelles.brussels<br>http://ecolelesjardinsdelise.ixelles.be/]]></description>
+      <styleUrl>#icon-1899-880E4F</styleUrl>
+      <Point>
+        <coordinates>
+          4.38289080000004,50.817496,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ecole - Institut Saint-André (m, p, s)
+</name>
+      <styleUrl>#icon-1899-880E4F-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.37847999999997,50.8194611,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ecole - Athénée Charles Janssens (s)
+</name>
+      <description><![CDATA[acj@ixelles.brussels<br>http://atheneecharlesjanssens.ixelles.be/]]></description>
+      <styleUrl>#icon-1899-880E4F</styleUrl>
+      <Point>
+        <coordinates>
+          4.36843399999998,50.8376674,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Ecole - Athénée Royal d'Ixelles (s)
+]]></name>
+      <styleUrl>#icon-1899-880E4F-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.36534430000006,50.8308158,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Home - Résidence Jean Van Aa
+</name>
+      <styleUrl>#icon-1502-880E4F-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.37821659999997,50.8235798,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Home - Résidence Les Heures Douces</name>
+      <styleUrl>#icon-1899-880E4F-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.37830459999998,50.8224443,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Maison médicale - Couleurs Santé</name>
+      <styleUrl>#icon-1899-880E4F-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.38030060000006,50.821503,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mutuelle - Mutualité chrétienne
+</name>
+      <description><![CDATA[/!\ CONTACT SPECIFIQUE<br>•	N’hésitez pas à nous adresser vos futures demandes à l’adresse e-mail communication.bxl@mc.be<br>•	D’un point de vue technique : l’affichage dans nos salles d’attente se fait via les écrans digitaux (pas d’affiches papier). Nous avons donc besoin d’une image horizontale (jpg ou png) au format 16/9 (idéalement) ou 4/3<br>•	En ce qui concerne le délais, il faut compter 2 jours pour que nous puissions garantir la diffusion]]></description>
+      <styleUrl>#icon-1899-880E4F</styleUrl>
+      <Point>
+        <coordinates>
+          4.37339320000001,50.8303273,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mutuelle - LM Mutplus
+</name>
+      <styleUrl>#icon-1899-880E4F-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.37274400000001,50.8290936,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mutuelle - Partenamut</name>
+      <styleUrl>#icon-1899-880E4F-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.36577820000002,50.817499,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mutuelle - Partenamut</name>
+      <styleUrl>#icon-1899-880E4F-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.38592689999996,50.8239368,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Poste - Agence bpost</name>
+      <description><![CDATA[Attention, distribution difficile car files + affichage difficile (pas d'espace prévu pour)]]></description>
+      <styleUrl>#icon-1899-880E4F</styleUrl>
+      <Point>
+        <coordinates>
+          4.37546410000004,50.8323026,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Poste - Agence bpost</name>
+      <description><![CDATA[Attention, distribution difficile car files + affichage difficile (pas d'espace prévu pour)]]></description>
+      <styleUrl>#icon-1899-880E4F</styleUrl>
+      <Point>
+        <coordinates>
+          4.36207939999997,50.8371696,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>XL - Bibliothèque FR
+</name>
+      <styleUrl>#icon-1899-880E4F-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.36538280000002,50.8323143,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>XL - Bibliothèque NL
+</name>
+      <styleUrl>#icon-1899-880E4F-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.37265170000001,50.8322516,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>XL - Ludothèque
+</name>
+      <styleUrl>#icon-1899-880E4F-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.36563209999997,50.8325042,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>XL - Stade</name>
+      <styleUrl>#icon-1899-880E4F-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.39631220000001,50.8140566,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
