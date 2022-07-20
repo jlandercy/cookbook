@@ -19,7 +19,18 @@ class Logistic:
     _rmax = 2.0
     
     @classmethod
-    def N(cls, t, r):
+    def defaults(cls, r=None, K=None, N0=None):
+        if r is None:
+            r = cls._r
+        if K is None:
+            K = cls._K
+        if N0 is None:
+            N0 = cls._N0
+        return (r, K, N0)
+    
+    @classmethod
+    def N(cls, t, r=None, K=None, N0=None):
+        r, K, N0 = cls.defaults(r=r, K=K, N0=N0)
         term = np.exp(r*t)
         return cls._K*cls._N0*term/(cls._K + cls._N0*(term - 1))
     
@@ -30,6 +41,18 @@ class Logistic:
         for t in ts:
             samples[t] = Logistic.N(t, rs)
         return pd.DataFrame(samples)
+    
+    @classmethod
+    @np.vectorize
+    def jacobian(cls, t=0., r=None, K=None, N0=None):
+        r, K, N0 = cls.defaults(r=r, K=K, N0=N0)
+        term = np.exp(r*t)
+        return np.array([
+            K*N0*(K-N0)*r*term,
+            K*N0*(K-N0)*t*term,
+            N0**2*term*(term - 1),
+            K**2*term
+        ])/(K + N0*(term - 1))**2
     
     @classmethod
     def dNdt(cls, t, r):
