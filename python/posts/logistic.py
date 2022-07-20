@@ -35,12 +35,15 @@ class Logistic:
         return cls._K*cls._N0*term/(cls._K + cls._N0*(term - 1))
     
     @classmethod
-    def sample(cls, ts, size=10000):
+    def sample(cls, ts, size=10000, seed=846):
+        np.random.seed(seed)
         rs = cls._law.rvs(size=size)
         samples = {}
         for t in ts:
             samples[t] = Logistic.N(t, rs)
-        return pd.DataFrame(samples)
+        frame = pd.DataFrame(samples)
+        frame["rvs"] = rs
+        return frame
     
     @classmethod
     @np.vectorize
