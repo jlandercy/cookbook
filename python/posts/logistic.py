@@ -1,6 +1,6 @@
 import numpy as np
 import pandas as pd
-from scipy import stats, signal, integrate, interpolate, optimize
+from scipy import stats, signal, integrate, interpolate, optimize, special
 import matplotlib.pyplot as plt
 
 
@@ -91,3 +91,4 @@ class Logistic:
         sigma = np.sqrt(mu2)
         skew = (mu3 - 3*mu1*sigma**2 - mu1**3)/(sigma**3)
         return (skew, error3)
+    
