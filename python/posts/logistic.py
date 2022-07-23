@@ -92,3 +92,22 @@ class Logistic:
         skew = (mu3 - 3*mu1*sigma**2 - mu1**3)/(sigma**3)
         return (skew, error3)
     
+
+class logitnorm_gen(stats.rv_continuous):
+
+    def _argcheck(self, m, s):
+        return (s > 0.) & (m > -np.inf)
+    
+    def _pdf(self, x, m, s):
+        return stats.norm(loc=m, scale=s).pdf(special.logit(x))/(x*(1-x))
+    
+    def _cdf(self, x, m, s):
+        return stats.norm(loc=m, scale=s).cdf(special.logit(x))
+    
+    def _rvs(self, m, s, size=None, random_state=None):
+        return special.expit(m + s*random_state.standard_normal(size))
+    
+    def fit(self, data, **kwargs):
+        return stats.norm.fit(special.logit(data), **kwargs)
+
+logitnorm = logitnorm_gen(a=0.0, b=1.0, name="logitnorm")
