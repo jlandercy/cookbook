@@ -61,3 +61,35 @@ LLCAutoSudoEntitledUser: cn=llcmgr,ou=Functional,ou=People,ou=LLDI,o=LLC
 uidNumber: 9678
 LLCLocalStatus: Active
 uid: chourya_rafoo
+
+dn: cn=chourya_rafoo,ou=Projects,ou=People,ou=LLDI,o=LLC
+costCenter: KR000002
+LLCResponsible: cn=llcq05075,ou=Personal,ou=People,ou=LLDI,o=LLC
+fullName: Entertainment account
+LLCAutoSudoRole: cn=chourya_rafoo,ou=Auto,ou=Sudoers,ou=Global,o=Services
+LLCSecurityLevel: 0
+LLCSecDom: cn=LLC,ou=SecurityDomains,ou=LLDI,o=LLC
+LLCEndDate: 20000000LLCEndDate: 20000000
+mail: jhaboo.udalt@LLC.com
+LLCObjectType: ProjectAccount
+LLCHomeDirectory: nisMapName=auto.home,ou=LLC_EMEA_NL-LDC02,ou=Locations,ou=LLDI,o=LLC#0#Quality=ScratchHP,NisMap=LLC4008:/proj/LLC4008_chourya_rafoo_cache/q,Quota=20,Id=cache
+LLCHomeDirectory: nisMapName=auto.home,ou=LLC_EMEA_NL-LDC02,ou=Locations,ou=LLDI,o=LLC#0#Quality=BusinessCriticalHP,Quota=50,NisMap=LLC3008:/proj/LLC3008_chourya_rafoo/q
+LLCSecurityDomain: cn=LLC,ou=SecurityDomains,ou=Global,o=Services
+loginShell: /bin/bash
+sn: chourya_rafoo
+cn: chourya_rafoo
+LLCStartDate: 20200510
+objectClass: Top
+objectClass: inetOrgPerson
+objectClass: LLCUserAuxClass
+objectClass: organizationalPerson
+objectClass: Person
+LLCPrimaryGroup: cn=chourya_rafoo,ou=Generic,ou=Group,ou=LLDI,o=LLC
+homeDirectory: /home/chourya_rafoo
+LLCRequestorGroup: cn=Default,ou=Requestors,ou=Master,o=Services
+gecos: Entertainment account
+gidNumber: 2365
+LLCAutoSudoEntitledUser: cn=llcmgr,ou=Functional,ou=People,ou=LLDI,o=LLC
+uidNumber: 9678
+LLCLocalStatus: Active
+uid: chourya_rafoo

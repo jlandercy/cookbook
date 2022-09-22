@@ -1,0 +1,36 @@
+costCenter: LL63238012
+mail: shiva.gowni@LLp.com
+LLpResponsible: cn=LLf58420,ou=Personal,ou=People,ou=LLDI,o=LLP
+LLpHomeDirectory: nisMapName=auto.home,ou=RDC_AMEC_LL-CDC01,ou=Locations,ou=LLDI,o=LLP#0#Quality=economy,NisMap=llc1002:/proj/llc1002_ziz1/q,Quota=10621
+LLpHomeDirectory: nisMapName=auto.home,ou=RDC_AMEC_LL-CDC01,ou=Locations,ou=LLDI,o=LLP#0#Quality=scratKG,NisMap=llc1002:/proj/llc1002_ziz1_scratKG/q,Quota=12000,Id=scratKG
+fullName: Tulip project ziz1
+
+costCenter: MX61FRK604
+mail: ali.pina@LLp.com
+LLpResponsible: cn=LLa11826,ou=Personal,ou=People,ou=LLDI,o=LLP
+LLpHomeDirectory: nisMapName=auto.home,ou=SAT_AMEC_MX-GDL01,ou=Locations,ou=LLDI,o=LLP#0#Quality=reference,NisMap=llc0156:/proj/llc0156_zmx28home_3/q,Quota=100,Id=3
+LLpHomeDirectory: nisMapName=auto.home,ou=SAT_AMEC_MX-GDL01,ou=Locations,ou=LLDI,o=LLP#0#Quality=reference,NisMap=llc0156:/proj/llc0156_zmx28home/q,Quota=300
+LLpHomeDirectory: nisMapName=auto.home,ou=SAT_AMEC_MX-GDL01,ou=Locations,ou=LLDI,o=LLP#0#Quality=reference,NisMap=llc0156:/proj/llc0156_zmx28home_2/q,Quota=100,Id=2
+fullName: xFSL to LLDI migration
+
+costCenter: RU61FPD561
+mail: udi.landen@LLp.com
+LLpResponsible: cn=LLa09278,ou=Personal,ou=People,ou=LLDI,o=LLP
+LLpHomeDirectory: nisMapName=auto.home,ou=RDC_AMEC_LL-CDC01,ou=Locations,ou=LLDI,o=LLP#0#Quota=1,Quality=EconomyHP,NisMap=llc2002:/proj/llc2002_zru12/q
+LLpHomeDirectory: nisMapName=auto.home,ou=RDC_AMEC_LL-CDC01,ou=Locations,ou=LLDI,o=LLP#0#Quota=2800,Quality=EconomyHP,NisMap=llc1002:/proj/llc1002_zru12_analog/q,Id=analog
+LLpHomeDirectory: nisMapName=auto.home,ou=RDC_AMEC_LL-CDC01,ou=Locations,ou=LLDI,o=LLP#0#Quota=1100,Quality=EconomyHP,NisMap=llc1002:/proj/llc1002_zru12_home/q,Id=home
+LLpHomeDirectory: nisMapName=auto.home,ou=RDC_AMEC_LL-CDC01,ou=Locations,ou=LLDI,o=LLP#0#Quality=EconomyHP,NisMap=llc1002:/proj/llc1002_zru12_libddk/q,Quota=2162,Id=libddk
+LLpHomeDirectory: nisMapName=auto.home,ou=RDC_AMEC_LL-CDC01,ou=Locations,ou=LLDI,o=LLP#0#Quality=EconomyHP,NisMap=llc1002:/proj/llc1002_zru12_proj/q,Quota=1102,Id=proj
+fullName: zru12
+
+costCenter: KG63010285
+mail: adam.smith@LLp.com
+LLpHomeDirectory: nisMapName=auto.home,ou=RDC_EMEA_NL-CDC01,ou=Locations,ou=LLDI,o=LLP#0#Quality=BLLinessCriticalHP,Quota=60,NisMap=llc4008:/proj/llc4008_zuriKG/q
+fullName: Container to store ZuriKG vault
+
+costCenter: KG63010285
+mail: adam.smith@LLp.com
+LLpHomeDirectory: nisMapName=auto.home,ou=RDC_EMEA_NL-CDC01,ou=Locations,ou=LLDI,o=LLP#0#Quality=EconomyHP,Quota=1,NisMap=llc3008:/proj/llc3008_zuriKG_rme/q
+LLpHomeDirectory: nisMapName=auto.home,ou=SAT_EMEA_NL-RME01,ou=Locations,ou=LLDI,o=LLP#0#Quality=EconomyHP,Quota=30,NisMap=llc4014:/proj/llc4014_zuriKG_rme/q
+LLpHomeDirectory: nisMapName=auto.home,ou=SAT_EMEA_NL-RME01,ou=Locations,ou=LLDI,o=LLP#0#Quality=ScratKGHP,Quota=400,NisMap=llc4014:/proj/llc4014_zuriKG_rme_scratKG/q,Id=scratKG
+fullName: Project to restore  project data on the RME work on HP-UX
